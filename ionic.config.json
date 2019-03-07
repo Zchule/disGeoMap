@@ -1,5 +1,7 @@
 {
   "name": "disGeoMap",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
